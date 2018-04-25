@@ -1,0 +1,27 @@
+{
+  "name": "streaky-streams",
+  "version": "0.1.0",
+  "description": "Bacon flavored micro FRP lib for Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanrsoares/streaky-streams.git"
+  },
+  "keywords": [
+    "frp",
+    "reactive",
+    "functional",
+    "streams",
+    "event-driven",
+    "functional-reactive"
+  ],
+  "author": "Alan Soares <alanrsoars@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanrsoares/streaky-streams/issues"
+  },
+  "homepage": "https://github.com/alanrsoares/streaky-streams#readme"
+}
