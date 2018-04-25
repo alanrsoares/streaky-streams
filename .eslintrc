@@ -1,0 +1,28 @@
+{
+  "parser": "babel-eslint",
+  "env": {
+    "jest": true,
+    "browser": true
+  },
+  "plugins": [
+    "prettier",
+    "ramda",
+    "flowtype"
+  ],
+  "extends": [
+    "airbnb",
+    "plugin:ramda/recommended",
+    "plugin:flowtype/recommended"
+  ],
+  "settings": {
+    "import/resolver": "webpack"
+  },
+  "rules": {
+    "prettier/prettier": "error",
+    "arrow-parens": [2, "as-needed"],
+    "function-paren-newline": 0,
+    "import/prefer-default-export": 0,
+    "import/extensions": 0,
+    "flowtype/generic-spacing": 0,
+  }
+}
