@@ -1,2 +1,2 @@
 # streaky-streams
-Micro FRP lib for Javascript with bacon flavour
+Bacon flavored micro FRP lib for Javascript
